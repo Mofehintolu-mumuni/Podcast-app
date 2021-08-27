@@ -1,4 +1,4 @@
-# podchaser-app
+# Podchaser-app
 This application shows how a command line application can be used to process podcasts and episodes via an rss feed url. It was developed using laravel.
 
 There is an in-app sql lite database setup for testing.
